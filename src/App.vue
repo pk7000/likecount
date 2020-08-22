@@ -107,7 +107,7 @@ export default {
         },
         {
           src:
-            "https://wallpapercave.com/wp/wp2458414.pngn",
+            "https://wallpapercave.com/wp/wp2458414.png",
         },
       ],
     };
